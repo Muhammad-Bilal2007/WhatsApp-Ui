@@ -1,0 +1,336 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.grandparent{
+    position: relative;
+}
+
+.parent1 {
+    z-index: 1;
+    font-family: sans-serif;
+    position: fixed;
+    background-color: rgb(7, 187, 7);
+    height: 210px;
+    width: 100%;
+
+}
+
+.parent1 h1 {
+    color: #f2f2f2;
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    display: inline-block;
+    font-size: xxx-large;
+}
+
+ #icon1 {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 50px;
+    position: absolute;
+    top: 17px;
+    left: 70%;
+ }
+
+ #icon2 {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 50px;
+    position: absolute;
+    top: 17px;
+    left: 80%;
+ }
+
+ #icon3 {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 50px;
+    position: absolute;
+    top: 17px;
+    left: 90%;
+ }
+
+ #icon4 {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 60px;
+    position: absolute;
+    top: 115px;
+    left: 25px;
+ }
+
+#icon5 {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 50px;
+    position: absolute;
+    top: 140px;
+    left: 90%;
+}
+
+ .parent1 p {
+    cursor: pointer;
+    color: #f2f2f2;
+    font-size: 50px;
+    position: absolute;
+    top: 135px;
+    left: 32%;
+    word-spacing: 170px;
+ }
+
+ #child1 img {
+    position: absolute;
+    top: 168px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+ #child1 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 215px;
+    left: 140px;
+ }
+
+ #child1 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 260px;
+    left: 155px;
+ }
+
+  #child2 img {
+    position: absolute;
+    top: 350px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+  #child2 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 388px;
+    left: 140px;
+ }
+
+ #child2 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 430px;
+    left: 155px;
+ }
+
+  #child3 img {
+    position: absolute;
+    top: 532px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+  #child3 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 574px;
+    left: 140px;
+ }
+
+ #child3 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 615px;
+    left: 155px;
+ }
+
+ #child4 img {
+    position: absolute;
+    top: 714px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+  #child4 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 753px;
+    left: 140px;
+ }
+
+ #child4 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 800px;
+    left: 155px;
+ }
+
+  #child5 img {
+    position: absolute;
+    top: 890px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+  #child5 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 935px;
+    left: 140px;
+ }
+
+ #child5 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 975px;
+    left: 155px;
+ }
+
+  #child6 img {
+    position: absolute;
+    top: 1055px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+   #child6 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 1100px;
+    left: 140px;
+ }
+
+  #child6 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 1145px;
+    left: 155px;
+ }
+
+ #child7 img {
+    position: absolute;
+    top: 1220px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+  #child7 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 1255px;
+    left: 140px;
+ }
+
+
+  #child7 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 1300px;
+    left: 155px;
+ }
+
+ #child8 img {
+    position: absolute;
+    top: 1370px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+ #child8 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 1408px;
+    left: 140px;
+ }
+
+  #child8 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 1450px;
+    left: 155px;
+ }
+
+  #child9 img {
+    position: absolute;
+    top: 1535px;
+    height: 80px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border-radius: 100%;
+ }
+
+ #child9 h1 {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    top: 1580px;
+    left: 140px;
+ }
+
+   #child9 p {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: x-large;
+    top: 1620px;
+    left: 155px;
+ }
+
+ .parent3 {
+    position: fixed;
+    cursor: pointer;
+    border: 5px solid black;
+    border-radius: 20px;
+    font-size: 80px;
+    top: 1000px;
+    left: 90%;
+ }
