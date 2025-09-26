@@ -82,6 +82,7 @@
  }
 
  #child1 img {
+    cursor: pointer;
     position: absolute;
     top: 168px;
     height: 80px;
@@ -92,6 +93,7 @@
  }
 
  #child1 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -100,6 +102,7 @@
  }
 
  #child1 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -109,6 +112,7 @@
  }
 
   #child2 img {
+    cursor: pointer;
     position: absolute;
     top: 350px;
     height: 80px;
@@ -119,6 +123,7 @@
  }
 
   #child2 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -127,6 +132,7 @@
  }
 
  #child2 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -136,6 +142,7 @@
  }
 
   #child3 img {
+    cursor: pointer;
     position: absolute;
     top: 532px;
     height: 80px;
@@ -146,6 +153,7 @@
  }
 
   #child3 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -154,6 +162,7 @@
  }
 
  #child3 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -163,6 +172,7 @@
  }
 
  #child4 img {
+    cursor: pointer;
     position: absolute;
     top: 714px;
     height: 80px;
@@ -173,6 +183,7 @@
  }
 
   #child4 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -181,6 +192,7 @@
  }
 
  #child4 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -190,6 +202,7 @@
  }
 
   #child5 img {
+    cursor: pointer;
     position: absolute;
     top: 890px;
     height: 80px;
@@ -200,6 +213,7 @@
  }
 
   #child5 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -208,6 +222,7 @@
  }
 
  #child5 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -217,6 +232,7 @@
  }
 
   #child6 img {
+    cursor: pointer;
     position: absolute;
     top: 1055px;
     height: 80px;
@@ -227,6 +243,7 @@
  }
 
    #child6 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -235,6 +252,7 @@
  }
 
   #child6 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -244,6 +262,7 @@
  }
 
  #child7 img {
+    cursor: pointer;
     position: absolute;
     top: 1220px;
     height: 80px;
@@ -254,6 +273,7 @@
  }
 
   #child7 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -263,6 +283,7 @@
 
 
   #child7 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -272,6 +293,7 @@
  }
 
  #child8 img {
+    cursor: pointer;
     position: absolute;
     top: 1370px;
     height: 80px;
@@ -282,6 +304,7 @@
  }
 
  #child8 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -290,6 +313,7 @@
  }
 
   #child8 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -299,6 +323,7 @@
  }
 
   #child9 img {
+    cursor: pointer;
     position: absolute;
     top: 1535px;
     height: 80px;
@@ -309,6 +334,7 @@
  }
 
  #child9 h1 {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -317,6 +343,7 @@
  }
 
    #child9 p {
+    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
