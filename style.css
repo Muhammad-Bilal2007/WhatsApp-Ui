@@ -11,7 +11,7 @@
     z-index: 1;
     font-family: sans-serif;
     position: fixed;
-    background-color: rgb(7, 187, 7);
+    background-color: rgb(3, 124, 3);
     height: 210px;
     width: 100%;
 
@@ -92,8 +92,13 @@
     border-radius: 100%;
  }
 
+ #childd1 {
+   position: absolute;
+   left: 86%;
+   top: -55px;
+ }
+
  #child1 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -102,7 +107,6 @@
  }
 
  #child1 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -123,7 +127,6 @@
  }
 
   #child2 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -132,7 +135,6 @@
  }
 
  #child2 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -153,7 +155,6 @@
  }
 
   #child3 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -162,7 +163,6 @@
  }
 
  #child3 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -183,7 +183,6 @@
  }
 
   #child4 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -192,7 +191,6 @@
  }
 
  #child4 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -213,7 +211,6 @@
  }
 
   #child5 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -222,7 +219,6 @@
  }
 
  #child5 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -243,7 +239,6 @@
  }
 
    #child6 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -252,7 +247,6 @@
  }
 
   #child6 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -273,7 +267,6 @@
  }
 
   #child7 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -283,7 +276,6 @@
 
 
   #child7 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -304,7 +296,6 @@
  }
 
  #child8 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -313,7 +304,6 @@
  }
 
   #child8 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -334,7 +324,6 @@
  }
 
  #child9 h1 {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -343,7 +332,6 @@
  }
 
    #child9 p {
-    cursor: pointer;
     margin-left: 20px;
     margin-top: 40px;
     position: absolute;
@@ -353,6 +341,7 @@
  }
 
  .parent3 {
+   color: darkcyan;
     position: fixed;
     cursor: pointer;
     border: 5px solid black;
